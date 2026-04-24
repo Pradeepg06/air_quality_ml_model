@@ -119,8 +119,8 @@ Air-Quality-Predictor/
 
 ## 📬 Contact
 
-* 📧 Email: [yourname@email.com](mailto:yourname@email.com)
-* 🌐 GitHub: https://github.com/yourusername
+* 📧 Email: pradeepg.cs24@bmsce.ac.in
+* 🌐 GitHub: [https://github.com/yourusername](https://github.com/Pradeepg06/air_quality_ml_model.git)
 
 ---
 
